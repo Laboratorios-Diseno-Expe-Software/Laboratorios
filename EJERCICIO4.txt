@@ -1,0 +1,1 @@
+Durante el exhaustivo análisis del código proporcionado, se encontró la falla donde la función dameCita() no estaba englobada con sus respectivas llaves, lo que conllevo a un mal funcionamiento.
