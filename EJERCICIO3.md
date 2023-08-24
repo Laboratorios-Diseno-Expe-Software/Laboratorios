@@ -14,6 +14,6 @@ Public Function FahrenheitToCelsius(ByVal Fahrenheit As Double) _
         Return ((Fahrenheit - 32) * 5) / 9
     End Function
 ```
-![](/img/EX3-Funcionando.jpeg)
+![](/img/EX3-Funcionando.png)
 
-![](/img/EX3-Funcionando2.jpeg)
+![](/img/EX3-Funcionando2.png)
