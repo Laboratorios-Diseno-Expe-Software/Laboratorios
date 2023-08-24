@@ -1,6 +1,7 @@
 ## Laboratorio 2
   
-Diseño de Experimentos de Ingeniería de Software - 2023-2
+Diseño de Experimentos de Ingeniería de Software - Sección: WX72  
+2023-2 - Universidad Peruana de Ciencias Aplicadas
 
 | Alumnos | Códigos | 
 |----------|----------|
