@@ -27,7 +27,7 @@ public class ServCitas : System.Web.Services.WebService
 
 [WebMethod]
  public String dameCita() 
- 
+{ 
  String [] citas = {
  "No hay mal que por bien no venga",
  "FRASE DE PRUEBA 2",
@@ -35,7 +35,7 @@ public class ServCitas : System.Web.Services.WebService
  Random random = new Random();
  int numCita = random.Next(0,3);
  return (citas[numCita]);
- 
+ }
 
 
 
