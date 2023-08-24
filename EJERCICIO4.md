@@ -1,14 +1,22 @@
 ## Ejercicio 4
+
 ### Errores encontrados
 
-![](/img/ex3.jpeg)
+![](/img/ex4.jpeg)
 
 ### Solución
-Agregar Return en la línea 17
+
+Agregar llaves a la función dameCita
 
 ```cs
-Public Function FahrenheitToCelsius(ByVal Fahrenheit As Double) _
-        As Double
-        Return ((Fahrenheit - 32) * 5) / 9
-    End Function
+public String dameCita()  {
+
+ String [] citas = {
+ "No hay mal que por bien no venga",
+ "FRASE DE PRUEBA 2",
+ "No por mucho madrugar amanece mas temprano"};
+ Random random = new Random();
+ int numCita = random.Next(0,3);
+ return (citas[numCita]);
+ }
 ```
