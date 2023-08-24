@@ -1,1 +1,0 @@
-Entre las líneas 16 y 26 se halla un comando Select Case, que selecciona entre DO(Dolar), RE(Real) y EU(Euro). Tanto DO como EU poseen su respectivo “case”. Sin embargo, RE carece de ello, siendo este el error que impide el correcto funcionamiento del programa.
