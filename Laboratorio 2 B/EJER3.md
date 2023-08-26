@@ -1,7 +1,7 @@
 El código proporcionado en C# en esencia, el código demuestra cómo agregar, insertar, buscar, ordenar y eliminar elementos de un ArrayList,
 que es una colección dinámica en la que puedes almacenar objetos de cualquier tipo.  
 
-![](/Laboratorio 2 B/img/EJER3codigo.png)
+![](/img/EJER3codigo.png)
 
  En lo que respecta a la decisión de llevar este código a un entorno de producción, se evidencia que el código actual no sería adecuado para
  tal fin debido a que está generando resultados incoherentes. El proceso de análisis y ejecución ha revelado que los resultados obtenidos no
