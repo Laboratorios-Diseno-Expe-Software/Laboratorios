@@ -1,4 +1,4 @@
-## Laboratorio 2
+## Laboratorios
   
 Diseño de Experimentos de Ingeniería de Software - Sección: WX72  
 2023-2 - Universidad Peruana de Ciencias Aplicadas
